@@ -1,15 +1,4 @@
-# -*- coding: utf-8 -*-
-# @Time   : 2020/12/14
-# @Author : Yihong Guo
-# @Email  : gyihong@hotmail.com
 
-r"""
-MultiVAE
-################################################
-Reference:
-    Dawen Liang et al. "Variational Autoencoders for Collaborative Filtering." in WWW 2018.
-
-"""
 
 import torch
 import torch.nn as nn

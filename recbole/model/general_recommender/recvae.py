@@ -1,17 +1,4 @@
-# -*- coding: utf-8 -*-
-# @Time   : 2021/2/28
-# @Author : Lanling Xu
-# @Email  : xulanling_sherry@163.com
 
-r"""
-RecVAE
-################################################
-Reference:
-    Shenbin, Ilya, et al. "RecVAE: A new variational autoencoder for Top-N recommendations with implicit feedback." In WSDM 2020.
-
-Reference code:
-    https://github.com/ilya-shenbin/RecVAE
-"""
 
 import numpy as np
 from copy import deepcopy

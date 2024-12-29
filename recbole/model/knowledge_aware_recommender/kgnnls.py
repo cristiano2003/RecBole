@@ -1,19 +1,4 @@
-# -*- coding: utf-8 -*-
-# @Time   : 2020/10/3
-# @Author : Changxin Tian
-# @Email  : cx.tian@outlook.com
 
-r"""
-KGNNLS
-################################################
-
-Reference:
-    Hongwei Wang et al. "Knowledge-aware Graph Neural Networks with Label Smoothness Regularization
-    for Recommender Systems." in KDD 2019.
-
-Reference code:
-    https://github.com/hwwang55/KGNN-LS
-"""
 
 import random
 

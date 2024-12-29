@@ -1,18 +1,3 @@
-# -*- coding: utf-8 -*-
-# @Time   : 2020/10/6
-# @Author : Changxin Tian
-# @Email  : cx.tian@outlook.com
-
-r"""
-KGCN
-################################################
-
-Reference:
-    Hongwei Wang et al. "Knowledge graph convolution networks for recommender systems." in WWW 2019.
-
-Reference code:
-    https://github.com/hwwang55/KGCN
-"""
 
 import numpy as np
 import torch

@@ -1,14 +1,4 @@
-# -*- coding: utf-8 -*-
-# @Time   : 2020/8/6
-# @Author : Shanlei Mu
-# @Email  : slmu@ruc.edu.cn
 
-r"""
-CKE
-##################################################
-Reference:
-    Fuzheng Zhang et al. "Collaborative Knowledge Base Embedding for Recommender Systems." in SIGKDD 2016.
-"""
 
 import torch
 import torch.nn as nn
